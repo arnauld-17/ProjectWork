@@ -1,0 +1,8 @@
+data\layer\Prodotto.class
+data\layer\Prodotti.class
+validator\layer\ProdottoValidator.class
+controller\layer\ProdottoController.class
+service\layer\TransactionDao.class
+data\layer\User.class
+data\layer\Carrello.class
+service\layer\TransactionDaoImpl.class

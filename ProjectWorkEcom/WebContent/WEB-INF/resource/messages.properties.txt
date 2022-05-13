@@ -1,0 +1,6 @@
+productname.required=Please enter a product name
+productname.tooshort=Product name too short
+productname.productprice=Price too high for product
+price.required=Please enter a price
+price.negative=Please enter a positive price
+Size=La lunghezza del nome deve essere compresa tra 1 e 10
